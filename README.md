@@ -35,3 +35,15 @@ https://www.dropbox.com/sh/w1ja3sw1tjq3e21/AAAbx8rreejFNpu5F5f5fy0aa?dl=0
 
 <img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/world1-4.jpg" width="500" alt="World 1-4 Screenshot" title="World 1-4">
 
+
+***
+### References
+
+World maps: http://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothers.html
+
+Mario physics: http://s276.photobucket.com/user/jdaster64/media/smb_playerphysics.png.html
+
+Sprites: http://www.mariouniverse.com/sprites/nes/smb
+
+Sounds: http://themushroomkingdom.net/media/smb/wav
+
