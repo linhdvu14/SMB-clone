@@ -119,23 +119,6 @@ public class Mario : MonoBehaviour {
 
 
 	void FixedUpdate () {
-		if (!inputFreezed) {
-			faceDirectionX = Input.GetAxisRaw ("Horizontal"); // > 0 for right, < 0 for left
-			isDashing = Input.GetButton ("Dash");
-			isCrouching = Input.GetButton ("Crouch");
-			isShooting = Input.GetButtonDown ("Dash");
-			jumpButtonHeld = Input.GetButton ("Jump");
-			if (Input.GetButtonUp ("Jump")) {
-				jumpButtonReleased = true;
-			}
-			jumpButtonReleased = true; // TODO
-		}
-
-		isFalling = m_Rigidbody2D.velocity.y < 0 && !isGrounded;
-		isGrounded = Physics2D.OverlapPoint (m_GroundCheck1.position, GroundLayers) || Physics2D.OverlapPoint (m_GroundCheck2.position, GroundLayers); 
-		isChangingDirection = currentSpeedX > 0 && faceDirectionX * moveDirectionX < 0;
-
-
 		/******** Horizontal movement on ground */
 		if (isGrounded) {
 			// If holding directional button, accelerate until reach max walk speed
@@ -285,6 +268,22 @@ public class Mario : MonoBehaviour {
 
 	/****************** Automatic movement sequences */
 	void Update() {
+		if (!inputFreezed) {
+			faceDirectionX = Input.GetAxisRaw ("Horizontal"); // > 0 for right, < 0 for left
+			isDashing = Input.GetButton ("Dash");
+			isCrouching = Input.GetButton ("Crouch");
+			isShooting = Input.GetButtonDown ("Dash");
+			jumpButtonHeld = Input.GetButton ("Jump");
+			if (Input.GetButtonUp ("Jump")) {
+				jumpButtonReleased = true;
+			}
+		}
+
+		isFalling = m_Rigidbody2D.velocity.y < 0 && !isGrounded;
+		isGrounded = Physics2D.OverlapPoint (m_GroundCheck1.position, GroundLayers) || Physics2D.OverlapPoint (m_GroundCheck2.position, GroundLayers); 
+		isChangingDirection = currentSpeedX > 0 && faceDirectionX * moveDirectionX < 0;
+
+
 		if (inputFreezed && !t_LevelManager.gamePaused) {
 			if (isDying) {
 				deadUpTimer -= Time.unscaledDeltaTime;
