@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test Scene.unity
+    guid: 56e509e2d25ae4ee8b2b6ee5da807370
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 0c774e47f2d1541ef9356d79e0f17abb
+  - enabled: 1
+    path: Assets/Scenes/Level Start Screen.unity
+    guid: 4f9707bcba2664592914f672043318ff
+  - enabled: 1
+    path: Assets/Scenes/Time Up Screen.unity
+    guid: 4449479ddc64442dd8758830588b20d0
+  - enabled: 1
+    path: Assets/Scenes/Game Over Screen.unity
+    guid: 620308a087b1248caab10c264cb72fae
+  - enabled: 1
+    path: Assets/Scenes/World 1-1.unity
+    guid: 8095ebcbfe4a14b30a787376f1d7fd22
+  - enabled: 1
+    path: Assets/Scenes/World 1-1 - Underground.unity
+    guid: 11c3ba92ac5024a91b45ae68ec8c8aff
+  - enabled: 1
+    path: Assets/Scenes/World 1-2.unity
+    guid: 37e7a12545566468084c9420b47f027f
+  - enabled: 1
+    path: Assets/Scenes/World 1-2 - Underground.unity
+    guid: b7cefb0a68c1944d5ae611db7f6956c6
+  - enabled: 1
+    path: Assets/Scenes/World 1-2 - Castle Cut.unity
+    guid: 77966fe3743c84d158fc891f4e0bdaef
+  - enabled: 1
+    path: Assets/Scenes/World 1-3.unity
+    guid: 82166eeea9c43410a8c8d924542bde5f
+  - enabled: 1
+    path: Assets/Scenes/World 1-4.unity
+    guid: cc8976174e8d84c428328c673f982bf3
