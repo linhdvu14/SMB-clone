@@ -30,9 +30,9 @@ public class Mario : MonoBehaviour {
 	private float minWalkSpeedX = .28f;
 	private float walkAccelerationX = .14f;
 	private float runAccelerationX = .21f;
-	private float releaseDecelerationX = .25f; // original: .19f
-	private float skidDecelerationX = .5f; // .38f
-	private float skidTurnaroundSpeedX = 3.5f; // 2.11
+	private float releaseDecelerationX = .25f; // original: .19f;
+	private float skidDecelerationX = .5f; // .38f;
+	private float skidTurnaroundSpeedX = 3.5f; // 2.11;
 	private float maxWalkSpeedX = 5.86f;
 	private float maxRunSpeedX = 9.61f;
 

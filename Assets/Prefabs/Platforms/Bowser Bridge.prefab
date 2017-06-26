@@ -2995,7 +2995,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: bd0bd65febb594124b6b58d46eab2eb5, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
@@ -3029,12 +3029,13 @@ MonoBehaviour:
   hitByBlockBonus: 0
   fireballBonus: 0
   stompBonus: 0
+  isBeingStomped: 0
   FirePos: {fileID: 4235219140222130}
   BowserImpostor: {fileID: 1087471968303868, guid: 34ffba594a73c44f7a012b870c1a1088,
     type: 2}
   BowserFire: {fileID: 1360121809440988, guid: 8fb4ec26de4754c80995e0ad6aeb509c, type: 2}
   canMove: 1
-  enabled: 0
+  active: 0
 --- !u!212 &212077986261102838
 SpriteRenderer:
   m_ObjectHideFlags: 1
