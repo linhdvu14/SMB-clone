@@ -15,11 +15,10 @@ Clone of Super Mario Bros, World 1-1 through 1-4. Made with Unity.
 ***
 ### Links
 #### Download executable (Windows and Mac OS)
-https://www.dropbox.com/sh/w1ja3sw1tjq3e21/AAAbx8rreejFNpu5F5f5fy0aa?dl=0
+https://www.mediafire.com/folder/nmqxb40qt4c1u/SMB+clone+by+linhdvu14
 
 Mirror: 
-
-https://www.mediafire.com/folder/nmqxb40qt4c1u/SMB+clone+by+linhdvu14
+https://www.dropbox.com/sh/w1ja3sw1tjq3e21/AAAbx8rreejFNpu5F5f5fy0aa?dl=0
 
 #### References
 World maps: http://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothers.html
