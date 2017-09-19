@@ -82,7 +82,9 @@ public class MainMenu : MonoBehaviour {
 	}
 
 	public void QuitGame() {
-		Application.Quit ();
+		if (!volumePanelActive) {
+			Application.Quit ();
+		}
 	}
 
 	public void SelectVolume() {
