@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: 73fb07ac7d5f744a48fe6c56ff43ae1b
+timeCreated: 1498235484
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - coinText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - FloatingTextEffect: {fileID: 1196479104050882, guid: 1ad1e9f06ef1b47b0ba83ef5484e63cf,
+      type: 2}
+  - musicSource: {instanceID: 0}
+  - soundSource: {instanceID: 0}
+  - levelMusic: {instanceID: 0}
+  - levelMusicHurry: {instanceID: 0}
+  - starmanMusic: {fileID: 8300000, guid: fe80c79237cc34e99babbc6d54016d93, type: 3}
+  - starmanMusicHurry: {fileID: 8300000, guid: f1d4bda1392ad4f6cb3bb8e494af8eb5, type: 3}
+  - levelCompleteMusic: {fileID: 8300000, guid: 632e293310a2b4c088dd51fdeaa9d8b8,
+      type: 3}
+  - castleCompleteMusic: {fileID: 8300000, guid: 6dbea1eceaa2e48b6aa7c92fac4fbafe,
+      type: 3}
+  - oneUpSound: {fileID: 8300000, guid: cdc43de50f4574c75afcc7e74975b29a, type: 3}
+  - bowserFallSound: {fileID: 8300000, guid: 04c05e6a635a94c57ba4f3a3f3aaa89f, type: 3}
+  - bowserFireSound: {fileID: 8300000, guid: de02ec0c771a0476cb3609ebf94653a8, type: 3}
+  - breakBlockSound: {fileID: 8300000, guid: c738f1c61166b40e19d4d970e7b9c9df, type: 3}
+  - bumpSound: {fileID: 8300000, guid: 6f487163c53194893952b1f457060b86, type: 3}
+  - coinSound: {fileID: 8300000, guid: d885ffc842af744d89f7d595ffcc176a, type: 3}
+  - deadSound: {instanceID: 0}
+  - fireballSound: {fileID: 8300000, guid: 7016dd03d29e64aa18bc6f1ae5bd8bec, type: 3}
+  - flagpoleSound: {fileID: 8300000, guid: 45ea427b60eb04afe8cc4c33f225da7a, type: 3}
+  - jumpSmallSound: {fileID: 8300000, guid: bc5ca5e0703c54692a186434e1149ccd, type: 3}
+  - jumpSuperSound: {fileID: 8300000, guid: 7988561719a0c40049ae5a3c2870d1e7, type: 3}
+  - kickSound: {fileID: 8300000, guid: 96f7a44168f114e6ba76d5c1bef36f86, type: 3}
+  - pauseSound: {fileID: 8300000, guid: 5aec150c938c24103aaf3606c480427c, type: 3}
+  - pipePowerdownSound: {fileID: 8300000, guid: b520e6b32619c490a934225b9b162dc2,
+      type: 3}
+  - powerupSound: {fileID: 8300000, guid: 26301d2e86e99420599e315297a825df, type: 3}
+  - powerupAppearSound: {fileID: 8300000, guid: 97a450c65284a4a3094ba5c2221a492b,
+      type: 3}
+  - stompSound: {fileID: 8300000, guid: d84415726495b4d46b5a557ed2a97cfa, type: 3}
+  - warningSound: {fileID: 8300000, guid: c0ea6c25686884e1a9547efdebf43492, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

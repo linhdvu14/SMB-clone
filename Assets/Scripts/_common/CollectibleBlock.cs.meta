@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3e59d25431204982a07632113f35891
+timeCreated: 1496998117
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - objectToSpawn: {instanceID: 0}
+  - bigMushroom: {fileID: 1010795472736430, guid: 0ff494b4f655343fba891aa0b2959266,
+      type: 2}
+  - fireFlower: {fileID: 1441789906337802, guid: 2d48a82d058c647b694e0fd9ac361dbd,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

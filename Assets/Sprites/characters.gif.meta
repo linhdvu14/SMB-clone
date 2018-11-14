@@ -1,0 +1,5286 @@
+fileFormatVersion: 2
+guid: 4d953ee8a2e3043538664e5eb88ff553
+timeCreated: 1498233143
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: characters_0
+    21300002: characters_1
+    21300004: characters_2
+    21300006: characters_3
+    21300008: characters_4
+    21300010: characters_5
+    21300012: characters_6
+    21300014: characters_7
+    21300016: characters_8
+    21300018: characters_9
+    21300020: characters_10
+    21300022: characters_11
+    21300024: characters_12
+    21300026: characters_13
+    21300028: big_mario_stand
+    21300030: big_mario_crouch
+    21300032: big_mario_walk_1
+    21300034: big_mario_walk_2
+    21300036: big_mario_walk_3
+    21300038: big_mario_brake
+    21300040: big_mario_jump
+    21300042: big_mario_climb_1
+    21300044: big_mario_climb_2
+    21300046: characters_23
+    21300048: characters_24
+    21300050: characters_25
+    21300052: characters_26
+    21300054: characters_27
+    21300056: characters_28
+    21300058: characters_29
+    21300060: characters_30
+    21300062: characters_31
+    21300064: characters_32
+    21300066: characters_33
+    21300068: characters_34
+    21300070: characters_35
+    21300072: characters_36
+    21300074: characters_37
+    21300076: characters_38
+    21300078: characters_39
+    21300080: characters_40
+    21300082: characters_41
+    21300084: characters_42
+    21300086: small_mario_transform
+    21300088: small_mario_stand
+    21300090: small_mario_walk_1
+    21300092: small_mario_walk_2
+    21300094: small_mario_walk_3
+    21300096: small_mario_brake
+    21300098: small_mario_jump
+    21300100: small_mario_climb_1
+    21300102: small_mario_climb_2
+    21300104: characters_52
+    21300106: characters_53
+    21300108: characters_54
+    21300110: characters_55
+    21300112: characters_56
+    21300114: mario_die
+    21300116: characters_58
+    21300118: characters_59
+    21300120: characters_60
+    21300122: characters_61
+    21300124: characters_62
+    21300126: characters_63
+    21300128: characters_64
+    21300130: characters_65
+    21300132: characters_66
+    21300134: characters_67
+    21300136: characters_68
+    21300138: characters_69
+    21300140: characters_70
+    21300142: characters_71
+    21300144: characters_72
+    21300146: characters_73
+    21300148: characters_74
+    21300150: characters_75
+    21300152: characters_76
+    21300154: characters_77
+    21300156: characters_78
+    21300158: characters_79
+    21300160: characters_80
+    21300162: characters_81
+    21300164: characters_82
+    21300166: characters_83
+    21300168: characters_84
+    21300170: characters_85
+    21300172: characters_86
+    21300174: characters_87
+    21300176: characters_88
+    21300178: characters_89
+    21300180: characters_90
+    21300182: characters_91
+    21300184: characters_92
+    21300186: characters_93
+    21300188: characters_94
+    21300190: characters_95
+    21300192: characters_96
+    21300194: characters_97
+    21300196: characters_98
+    21300198: characters_99
+    21300200: characters_100
+    21300202: characters_101
+    21300204: characters_102
+    21300206: characters_103
+    21300208: characters_104
+    21300210: characters_105
+    21300212: characters_106
+    21300214: characters_107
+    21300216: characters_108
+    21300218: characters_109
+    21300220: characters_110
+    21300222: characters_111
+    21300224: characters_112
+    21300226: characters_113
+    21300228: characters_114
+    21300230: characters_115
+    21300232: characters_116
+    21300234: characters_117
+    21300236: characters_118
+    21300238: characters_119
+    21300240: characters_120
+    21300242: characters_121
+    21300244: characters_122
+    21300246: characters_123
+    21300248: characters_124
+    21300250: characters_125
+    21300252: characters_126
+    21300254: characters_127
+    21300256: characters_128
+    21300258: characters_129
+    21300260: fire_mario_stand
+    21300262: fire_mario_crouch
+    21300264: fire_mario_walk_1
+    21300266: fire_mario_walk_2
+    21300268: fire_mario_walk_3
+    21300270: fire_mario_brake
+    21300272: fire_mario_jump
+    21300274: fire_mario_climb_1
+    21300276: fire_mario_climb_2
+    21300278: characters_139
+    21300280: characters_140
+    21300282: characters_141
+    21300284: characters_142
+    21300286: characters_143
+    21300288: characters_144
+    21300290: characters_145
+    21300292: characters_146
+    21300294: characters_147
+    21300296: characters_148
+    21300298: toad
+    21300300: characters_150
+    21300302: characters_151
+    21300304: characters_152
+    21300306: characters_153
+    21300308: characters_154
+    21300310: characters_155
+    21300312: characters_156
+    21300314: characters_157
+    21300316: characters_158
+    21300318: characters_159
+    21300320: characters_160
+    21300322: characters_161
+    21300324: characters_162
+    21300326: characters_163
+    21300328: characters_164
+    21300330: characters_165
+    21300332: characters_166
+    21300334: characters_167
+    21300336: characters_168
+    21300338: characters_169
+    21300340: characters_170
+    21300342: characters_171
+    21300344: characters_172
+    21300346: characters_173
+    21300348: characters_174
+    21300350: characters_175
+    21300352: characters_176
+    21300354: characters_177
+    21300356: characters_178
+    21300358: characters_179
+    21300360: characters_180
+    21300362: characters_181
+    21300364: characters_182
+    21300366: characters_183
+    21300368: characters_184
+    21300370: characters_185
+    21300372: characters_186
+    21300374: characters_187
+    21300376: characters_188
+    21300378: characters_189
+    21300380: characters_190
+    21300382: characters_191
+    21300384: characters_192
+    21300386: characters_193
+    21300388: characters_194
+    21300390: characters_195
+    21300392: characters_196
+    21300394: characters_197
+    21300396: characters_198
+    21300398: characters_199
+    21300400: characters_200
+    21300402: characters_201
+    21300404: characters_202
+    21300406: characters_203
+    21300408: characters_204
+    21300410: characters_205
+    21300412: characters_206
+    21300414: characters_207
+    21300416: characters_208
+    21300418: characters_209
+    21300420: characters_210
+    21300422: characters_211
+    21300424: characters_212
+    21300426: characters_213
+    21300428: characters_214
+    21300430: characters_215
+    21300432: characters_216
+    21300434: characters_217
+    21300436: characters_218
+    21300438: characters_219
+    21300440: characters_220
+    21300442: characters_221
+    21300444: characters_222
+    21300446: characters_223
+    21300448: characters_224
+    21300450: characters_225
+    21300452: characters_226
+    21300454: characters_227
+    21300456: characters_228
+    21300458: characters_229
+    21300460: characters_230
+    21300462: characters_231
+    21300464: characters_232
+    21300466: characters_233
+    21300468: characters_234
+    21300470: characters_235
+    21300472: characters_236
+    21300474: characters_237
+    21300476: characters_238
+    21300478: characters_239
+    21300480: characters_240
+    21300482: characters_241
+    21300484: characters_242
+    21300486: characters_243
+    21300488: characters_244
+    21300490: characters_245
+    21300492: characters_246
+    21300494: characters_247
+    21300496: characters_248
+    21300498: characters_249
+    21300500: characters_250
+    21300502: characters_251
+    21300504: characters_252
+    21300506: characters_253
+    21300508: characters_254
+    21300510: characters_255
+    21300512: characters_256
+    21300514: characters_257
+    21300516: characters_258
+    21300518: characters_259
+    21300520: characters_260
+    21300522: characters_261
+    21300524: characters_262
+    21300526: characters_263
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: characters_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -8.5}
+        - {x: -2, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 9.5}
+        - {x: 6, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 368
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -11.5}
+        - {x: -4, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 7.5}
+        - {x: 6, y: 12.5}
+        - {x: 4, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 368
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: 1, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 14}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 368
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 10.5}
+        - {x: 6, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 368
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -8}
+        - {x: 0, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 14}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 368
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 368
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: 6, y: -15}
+        - {x: 7, y: -13}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 11.5}
+        - {x: 5, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: -8}
+        - {x: -1, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 368
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -14.5}
+        - {x: -6, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 368
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -8, y: 13}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 368
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 11}
+        - {x: -6, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 6}
+        - {x: 6, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_stand
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_crouch
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 5}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_walk_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -6, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_walk_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_walk_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_brake
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -9}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_jump
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -8, y: 9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_climb_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -14}
+        - {x: -3, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 12}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mario_climb_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 368
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 8}
+        - {x: 4, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 368
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -15}
+        - {x: 1, y: -15}
+        - {x: 8, y: -10}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 368
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14.5}
+        - {x: -8, y: 11.5}
+        - {x: -8, y: -14.5}
+        - {x: 2, y: -14.5}
+        - {x: 7, y: -8.5}
+        - {x: 8, y: -4.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 368
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: -1, y: -15}
+        - {x: 7, y: -11}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_26
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 368
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -8, y: 9.5}
+        - {x: -8, y: -14.5}
+        - {x: 3, y: -14.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 368
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -8, y: 10.5}
+        - {x: -8, y: -14.5}
+        - {x: 3, y: -14.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 13.5}
+        - {x: 7, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 341
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 5.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 7.5}
+        - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -3.5}
+        - {x: -0.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 341
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7.5}
+        - {x: -7, y: -3.5}
+        - {x: -3, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 7, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 341
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 341
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 1}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 341
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -5}
+        - {x: -2.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 341
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 341
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 341
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 7.5}
+        - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 341
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 7}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -8, y: 11}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 11}
+        - {x: 6, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_transform
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 9.509186}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9.509155}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_stand
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 2}
+        - {x: -7, y: -3}
+        - {x: -8, y: -6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -4}
+        - {x: 6, y: 1}
+        - {x: 2, y: 2}
+      - - {x: -7.819702, y: 9.689484}
+        - {x: -8, y: 10}
+        - {x: -6, y: 9}
+        - {x: 8, y: 9}
+        - {x: 8, y: 9.14856}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_walk_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 1}
+        - {x: -7, y: -3}
+        - {x: -8, y: -12}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 0}
+        - {x: 3, y: 1}
+      - - {x: -8, y: 9.8697815}
+        - {x: -8, y: 9}
+        - {x: 8, y: 9}
+        - {x: 8, y: 9.509186}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_walk_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 2}
+        - {x: -7, y: 0}
+        - {x: -7, y: -12}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -11}
+        - {x: 8, y: -2}
+        - {x: 6, y: 2}
+      - - {x: -7.819702, y: 9.8697815}
+        - {x: -8, y: 10}
+        - {x: -7, y: 9}
+        - {x: 0, y: 9}
+        - {x: 1, y: 11}
+        - {x: 1, y: 11.213684}
+        - {x: 0.7211914, y: 10.230377}
+      - - {x: 4.4591064, y: 10.590973}
+        - {x: 3.8197021, y: 10.377289}
+        - {x: 6, y: 10}
+        - {x: 8, y: 10}
+        - {x: 4.393982, y: 9.8697815}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_walk_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 2}
+        - {x: -8, y: 0}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 2}
+      - - {x: -7.819702, y: 9.689484}
+        - {x: -8, y: 9}
+        - {x: -3, y: 9}
+        - {x: -1, y: 11}
+        - {x: -0.54089355, y: 9.509186}
+      - - {x: 1.3605957, y: 10.951599}
+        - {x: 0.6394043, y: 9.853088}
+        - {x: 5, y: 9}
+        - {x: 8, y: 9}
+        - {x: 8, y: 8.787964}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_brake
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 2}
+        - {x: -8, y: -2}
+        - {x: -8, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 2}
+      - - {x: -7.819702, y: 9.328888}
+        - {x: -8, y: 10.016693}
+        - {x: 0, y: 11}
+        - {x: 8, y: 9.7378845}
+        - {x: 7.6394043, y: 8.427399}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_jump
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -2}
+        - {x: -8, y: -7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 2}
+        - {x: -3, y: 2}
+      - - {x: -7.819702, y: 8.968262}
+        - {x: -8, y: 9}
+        - {x: -6, y: 9}
+        - {x: -4, y: 10}
+        - {x: -2, y: 9.8697815}
+      - - {x: 3.4591064, y: 8.787964}
+        - {x: 4, y: 11}
+        - {x: 6, y: 9}
+        - {x: 8, y: 9}
+        - {x: 6.016693, y: 7.886505}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_climb_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 1}
+        - {x: -8, y: -2}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -8}
+        - {x: 5, y: 1}
+      - - {x: -8, y: 10.410706}
+        - {x: -8, y: 10}
+        - {x: 0, y: 10}
+        - {x: 7, y: 9.754608}
+        - {x: 6.819702, y: 9.689453}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_mario_climb_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 2}
+        - {x: -8, y: 0}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -3}
+        - {x: 5, y: 2}
+      - - {x: -6, y: 8.607666}
+        - {x: -5.721222, y: 7.951599}
+        - {x: 4, y: 7.196991}
+        - {x: 7, y: 8.7378845}
+        - {x: 7.4591064, y: 9.131866}
+        - {x: 6.7378845, y: 8.247101}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_52
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 341
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: -7.5}
+        - {x: 2, y: -7.5}
+        - {x: 7, y: -1.5}
+        - {x: 7, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_53
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 7.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 0.5, y: -7.5}
+        - {x: 6.5, y: -3.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 0.5, y: -7.5}
+        - {x: 6.5, y: -2.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 7.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 341
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_die
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 341
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.833313, y: 7}
+        - {x: -7.833313, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -8.5}
+        - {x: -2, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 9.5}
+        - {x: 6, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 306
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -11.5}
+        - {x: -4, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 7.5}
+        - {x: 6, y: 12.5}
+        - {x: 4, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 306
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: 1, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 14}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 306
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 10.5}
+        - {x: 6, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 306
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -8}
+        - {x: 0, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 14}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 306
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 306
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: 6, y: -15}
+        - {x: 7, y: -13}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 306
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 11.5}
+        - {x: 5, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 306
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: -8}
+        - {x: -1, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 306
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 306
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -14.5}
+        - {x: -6, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 306
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -8, y: 13}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 306
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 11}
+        - {x: -6, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 6}
+        - {x: 6, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 306
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 306
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 306
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_74
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 306
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -8, y: 11}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 306
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15.5}
+        - {x: -7, y: 13.5}
+        - {x: -7, y: -10.5}
+        - {x: -6, y: -14.5}
+        - {x: -5, y: -15.5}
+        - {x: 5, y: -15.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 14.5}
+        - {x: 6, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_76
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 306
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 306
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -9}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_78
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 306
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15.5}
+        - {x: -8, y: 10.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_79
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 306
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -1, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 306
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_81
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 306
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -15}
+        - {x: 1, y: -15}
+        - {x: 8, y: -10}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_82
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 306
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14.5}
+        - {x: -8, y: 11.5}
+        - {x: -8, y: -14.5}
+        - {x: 2, y: -14.5}
+        - {x: 7, y: -8.5}
+        - {x: 8, y: -4.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_83
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 306
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: -1, y: -15}
+        - {x: 7, y: -11}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_84
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 306
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -8, y: 9.5}
+        - {x: -8, y: -14.5}
+        - {x: 3, y: -14.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 306
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -8, y: 10.5}
+        - {x: -8, y: -14.5}
+        - {x: 3, y: -14.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 13.5}
+        - {x: 7, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_86
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_87
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 5.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_89
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 7.5}
+        - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -3.5}
+        - {x: -0.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 279
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7.5}
+        - {x: -7, y: -3.5}
+        - {x: -3, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 7, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_92
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 279
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_94
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 279
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 1}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_95
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 279
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -5}
+        - {x: -2.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_96
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 279
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 279
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_98
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 279
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 7.5}
+        - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 279
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 7}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -8, y: 11}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 11}
+        - {x: 6, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_101
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 279
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 11}
+        - {x: 7, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_102
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 279
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_103
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 279
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 7.5}
+        - {x: -6, y: 6.5}
+        - {x: -6, y: -7.5}
+        - {x: 5, y: -7.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 279
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 279
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_106
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 279
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_107
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 279
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 279
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_109
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 279
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_110
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: -7.5}
+        - {x: 2, y: -7.5}
+        - {x: 7, y: -1.5}
+        - {x: 7, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_111
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 7.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 0.5, y: -7.5}
+        - {x: 6.5, y: -3.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_112
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 0.5, y: -7.5}
+        - {x: 6.5, y: -2.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_113
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 7.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_114
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_115
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -8.5}
+        - {x: -2, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 9.5}
+        - {x: 6, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_117
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -11.5}
+        - {x: -4, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 7.5}
+        - {x: 6, y: 12.5}
+        - {x: 4, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_118
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 244
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: 1, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 14}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_119
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -9.5}
+        - {x: -3, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 10.5}
+        - {x: 6, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_120
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 244
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -8}
+        - {x: 0, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 14}
+        - {x: 6, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_121
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 244
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_122
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 244
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: 6, y: -15}
+        - {x: 7, y: -13}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 244
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 11.5}
+        - {x: 5, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_124
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: -8}
+        - {x: -1, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_125
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_126
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 244
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -14.5}
+        - {x: -6, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_127
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 244
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -8, y: 13}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_128
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 244
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 11}
+        - {x: -6, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 6}
+        - {x: 6, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_129
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_stand
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_crouch
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 5}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_walk_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -6, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_walk_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_walk_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_brake
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -9}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_jump
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -8, y: 9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_climb_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -14}
+        - {x: -3, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 12}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_mario_climb_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 244
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 8}
+        - {x: 4, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_139
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 244
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -15}
+        - {x: 1, y: -15}
+        - {x: 8, y: -10}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_140
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14.5}
+        - {x: -8, y: 11.5}
+        - {x: -8, y: -14.5}
+        - {x: 2, y: -14.5}
+        - {x: 7, y: -8.5}
+        - {x: 8, y: -4.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 244
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -15}
+        - {x: -1, y: -15}
+        - {x: 7, y: -11}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_142
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -8, y: 9.5}
+        - {x: -8, y: -14.5}
+        - {x: 3, y: -14.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_143
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14.5}
+        - {x: -8, y: 10.5}
+        - {x: -8, y: -14.5}
+        - {x: 3, y: -14.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 13.5}
+        - {x: 7, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_144
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 198
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 9.5}
+        - {x: 7, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_146
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 217
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -8, y: 11}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_147
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 217
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11.5}
+        - {x: -7, y: -11.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 8.5}
+        - {x: 6, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_148
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 217
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11.5}
+        - {x: -7, y: 6.5}
+        - {x: -7, y: -11.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toad
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 217
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -8, y: 11}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_150
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 198
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_151
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 198
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 9.5}
+        - {x: 7, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_152
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 198
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 4}
+        - {x: -8, y: 3}
+        - {x: -8, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_153
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_154
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_155
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 198
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 4}
+        - {x: -8, y: 3}
+        - {x: -8, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_156
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_157
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_158
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 198
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 4}
+        - {x: -8, y: 3}
+        - {x: -8, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_159
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_160
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_161
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -7, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 4}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 171
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 4.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_163
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 2}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_164
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 4.5}
+        - {x: 1, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_165
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -6}
+        - {x: -4, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 4}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_166
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11.5}
+        - {x: -8, y: 10.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -7, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 4}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_168
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 171
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 4.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_169
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 2}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_170
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 4.5}
+        - {x: 1, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_171
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -6}
+        - {x: -4, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 4}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_172
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11.5}
+        - {x: -8, y: 10.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_173
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_174
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -8, y: 4}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 8, y: -10}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_175
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_176
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -8, y: 5}
+        - {x: -8, y: -12}
+        - {x: 6, y: -12}
+        - {x: 8, y: -9}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_177
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 171
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -4.5}
+        - {x: -6, y: -7.5}
+        - {x: 5, y: -7.5}
+        - {x: 7, y: -6.5}
+        - {x: 8, y: -3.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_178
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -4}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 8, y: -4}
+        - {x: 8, y: 5}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_179
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_180
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -8, y: 4}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 8, y: -10}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_181
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 171
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_182
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -8, y: 5}
+        - {x: -8, y: -12}
+        - {x: 6, y: -12}
+        - {x: 8, y: -9}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -4.5}
+        - {x: -6, y: -7.5}
+        - {x: 5, y: -7.5}
+        - {x: 7, y: -6.5}
+        - {x: 8, y: -3.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_184
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 172
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -4}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 8, y: -4}
+        - {x: 8, y: 5}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_185
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_186
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 7.5}
+        - {x: -8, y: 5.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_187
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 144
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_188
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -8, y: 4}
+        - {x: -8, y: -5}
+        - {x: -7, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 4}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_189
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 4.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_190
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 2}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_191
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 4.5}
+        - {x: 1, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_192
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -6}
+        - {x: -4, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 4}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_193
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 144
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11.5}
+        - {x: -8, y: 10.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_194
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 144
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 11.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_195
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -8, y: 4}
+        - {x: -8, y: -12}
+        - {x: 7, y: -12}
+        - {x: 8, y: -10}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_196
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 11.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -11.5}
+        - {x: 8, y: -11.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_197
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 12}
+        - {x: -8, y: 5}
+        - {x: -8, y: -12}
+        - {x: 6, y: -12}
+        - {x: 8, y: -9}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_198
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -4.5}
+        - {x: -6, y: -7.5}
+        - {x: 5, y: -7.5}
+        - {x: 7, y: -6.5}
+        - {x: 8, y: -3.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_199
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 144
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -4}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 8, y: -4}
+        - {x: 8, y: 5}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 144
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_201
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_202
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_203
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 117
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8}
+        - {x: -7.5, y: 7}
+        - {x: -7.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 6}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_204
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 4}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_205
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 117
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8}
+        - {x: -7.5, y: 7}
+        - {x: -7.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 6}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_206
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 4}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_207
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -11}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+        - {x: 2, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_208
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 117
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 12}
+        - {x: -7.5, y: 11}
+        - {x: -7.5, y: -11}
+        - {x: -5.5, y: -12}
+        - {x: 7.5, y: -12}
+        - {x: 7.5, y: 5}
+        - {x: 1.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_209
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -1}
+        - {x: -3, y: -10}
+        - {x: -1, y: -12}
+        - {x: 7, y: -12}
+        - {x: 8, y: -11}
+        - {x: 8, y: 4}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_210
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -11}
+        - {x: -6, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 5}
+        - {x: 2, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_211
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 117
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 12}
+        - {x: -7.5, y: 11}
+        - {x: -7.5, y: -11}
+        - {x: -5.5, y: -12}
+        - {x: 7.5, y: -12}
+        - {x: 7.5, y: 5}
+        - {x: 1.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_212
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -1}
+        - {x: -3, y: -10}
+        - {x: -1, y: -12}
+        - {x: 7, y: -12}
+        - {x: 8, y: -11}
+        - {x: 8, y: 4}
+        - {x: 1, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_213
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 11}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_214
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -7}
+        - {x: -7, y: -8}
+        - {x: 7, y: -8}
+        - {x: 8, y: -7}
+        - {x: 8, y: 4}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_215
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -12}
+        - {x: 2, y: -12}
+        - {x: 8, y: -3}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_216
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 117
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 12}
+        - {x: -7.5, y: 7}
+        - {x: -7.5, y: -12}
+        - {x: 5.5, y: -12}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_217
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 6}
+        - {x: -8, y: -12}
+        - {x: 3, y: -12}
+        - {x: 8, y: -7}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_218
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -12}
+        - {x: 2, y: -12}
+        - {x: 8, y: -3}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 117
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 12}
+        - {x: -7.5, y: 7}
+        - {x: -7.5, y: -12}
+        - {x: 5.5, y: -12}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_220
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 117
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 6}
+        - {x: -8, y: -12}
+        - {x: 3, y: -12}
+        - {x: 8, y: -7}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_221
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 7, y: -8}
+        - {x: 8, y: -7}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_222
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 117
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -7}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_223
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 7, y: -8}
+        - {x: 8, y: -7}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_224
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 117
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -7}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_225
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_226
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -11}
+        - {x: -7, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 9}
+        - {x: 6, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_227
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 90
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_228
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_229
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -6}
+        - {x: -6, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_230
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_231
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_232
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_233
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -6}
+        - {x: -6, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_234
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_235
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_236
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_237
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -6}
+        - {x: -6, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_238
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_239
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_240
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_241
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_242
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_243
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_244
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_245
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_246
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_247
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_248
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_249
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 7, y: -7.5}
+        - {x: 8, y: -6.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_250
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_251
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -8, y: 4.5}
+        - {x: -8, y: -7.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_252
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_253
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 7}
+        - {x: -8, y: 4}
+        - {x: -8, y: -4}
+        - {x: -5, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_254
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 36
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_255
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -7}
+        - {x: 5, y: -7}
+        - {x: 8, y: -4}
+        - {x: 8, y: 4}
+        - {x: 5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_256
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -13, y: -15}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_257
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_258
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 1}
+        - {x: -13, y: -9}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_259
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -3}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_260
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_261
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_262
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 13, y: -8}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characters_263
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 2, y: -16}
+        - {x: 13, y: -7}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

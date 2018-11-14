@@ -1,0 +1,7823 @@
+fileFormatVersion: 2
+guid: 82bc45c4496284f4c823d1b837f65ec4
+timeCreated: 1498027307
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: misc-3_0
+    21300002: misc-3_1
+    21300004: misc-3_2
+    21300006: misc-3_3
+    21300008: mushroom_1up
+    21300010: mushroom_powerup
+    21300012: oneup_mushroom_dark
+    21300014: moving_platform_6
+    21300016: moving_platform_3
+    21300018: goal_pole_green
+    21300020: goal2
+    21300022: goal3
+    21300024: goal4
+    21300026: brick_brown1
+    21300028: brick_green1
+    21300030: brick_grey1
+    21300032: brick_brown_piece
+    21300034: pipe_brown_top_up
+    21300036: pipe_green_top_up
+    21300038: moving_platform_4
+    21300040: misc-3_20
+    21300042: brick_green_piece
+    21300044: fireflower_1
+    21300046: fireflower_2
+    21300048: fireflower_3
+    21300050: fireflower_4
+    21300052: misc-3_26
+    21300054: misc-3_27
+    21300056: misc-3_28
+    21300058: misc-3_29
+    21300060: block_brown
+    21300062: block_brown_green_tinge
+    21300064: block_grey
+    21300066: brick_grey_piece
+    21300068: misc-3_34
+    21300070: misc-3_35
+    21300072: misc-3_36
+    21300074: misc-3_37
+    21300076: misc-3_38
+    21300078: misc-3_39
+    21300080: misc-3_40
+    21300082: misc-3_41
+    21300084: block_green
+    21300086: misc-3_43
+    21300088: goal_flag_green
+    21300090: misc-3_45
+    21300092: pipe_brown_body
+    21300094: pipe_green_body
+    21300096: starman_1
+    21300098: starman_2
+    21300100: starman_3
+    21300102: starman_4
+    21300104: misc-3_52
+    21300106: misc-3_53
+    21300108: misc-3_54
+    21300110: misc-3_55
+    21300112: misc-3_56
+    21300114: brick_brown2
+    21300116: brick_green2
+    21300118: brick_grey2
+    21300120: pipe_brown_top_side
+    21300122: pipe_brown_mid
+    21300124: pipe_green_top_side
+    21300126: pipe_green_mid
+    21300128: misc-3_64
+    21300130: misc-3_65
+    21300132: misc-3_66
+    21300134: marble_brown
+    21300136: ground1_brown
+    21300138: ground1_green
+    21300140: marble_green
+    21300142: ground1_grey
+    21300144: marble_grey
+    21300146: coin1_1
+    21300148: coin_flashing_2
+    21300150: coin_flashing_3
+    21300152: coin_flashing_4
+    21300154: pipe_brown_top_down
+    21300156: pipe_green_top_down
+    21300158: bg_mountain_big
+    21300160: question_block1_1
+    21300162: question_block1_2
+    21300164: question_block1_3
+    21300166: coin1_2
+    21300168: coin1_3
+    21300170: hud_coin1_1
+    21300172: hud_coin1_2
+    21300174: hud_coin1_3
+    21300176: bg_mountain_small
+    21300178: question_block2_1
+    21300180: question_block2_2
+    21300182: question_block2_3
+    21300184: coin2_1
+    21300186: coin2_2
+    21300188: coin2_3
+    21300190: hud_coin2_1
+    21300192: hud_coin2_2
+    21300194: hud_coin2_3
+    21300196: pipe_silver_top_up
+    21300198: pipe_blue_top_up
+    21300200: hud_coin3_1
+    21300202: hud_coin3_2
+    21300204: hud_coin3_3
+    21300206: bg_cloud_blue_2
+    21300208: bg_cloud_blue_3
+    21300210: bg_cloud_blue_1
+    21300212: castle_flag
+    21300214: coin3_1
+    21300216: coin3_2
+    21300218: coin3_3
+    21300220: bg_cloud_red_2
+    21300222: bg_cloud_red_3
+    21300224: bg_cloud_red_1
+    21300226: castle_small_left
+    21300228: castle_small_grey
+    21300230: pipe_silver_top_body
+    21300232: pipe_blue_body
+    21300234: bg_bush_1
+    21300236: bg_bush_3
+    21300238: bg_bush_2
+    21300240: pipe_silver_top_side
+    21300242: pipe_silver_mid
+    21300244: pipe_blue_top_side
+    21300246: pipe_blue_mid
+    21300248: misc-3_124
+    21300250: misc-3_125
+    21300252: misc-3_126
+    21300254: misc-3_127
+    21300256: tree_top_left
+    21300258: tree_top_mid
+    21300260: tree_top_right
+    21300262: misc-3_131
+    21300264: misc-3_132
+    21300266: misc-3_133
+    21300268: pipe_silver_top_down
+    21300270: pipe_blue_top_down
+    21300272: tree_chunk
+    21300274: misc-3_137
+    21300276: misc-3_138
+    21300278: misc-3_139
+    21300280: misc-3_140
+    21300282: misc-3_141
+    21300284: misc-3_142
+    21300286: misc-3_143
+    21300288: misc-3_144
+    21300290: color_blue1
+    21300292: color_black
+    21300294: color_blue2
+    21300296: castle_big_grey
+    21300298: misc-3_149
+    21300300: misc-3_150
+    21300302: misc-3_151
+    21300304: misc-3_152
+    21300306: misc-3_153
+    21300308: misc-3_154
+    21300310: misc-3_155
+    21300312: color_blue3
+    21300314: color_red
+    21300316: misc-3_158
+    21300318: misc-3_159
+    21300320: misc-3_160
+    21300322: misc-3_161
+    21300324: misc-3_162
+    21300326: misc-3_163
+    21300328: misc-3_164
+    21300330: misc-3_165
+    21300332: misc-3_166
+    21300334: misc-3_167
+    21300336: castle_wall
+    21300338: toad
+    21300340: princess_peach
+    21300342: misc-3_171
+    21300344: misc-3_172
+    21300346: misc-3_173
+    21300348: misc-3_174
+    21300350: misc-3_175
+    21300352: axe_1
+    21300354: axe_2
+    21300356: axe_3
+    21300358: misc-3_179
+    21300360: misc-3_180
+    21300362: misc-3_181
+    21300364: bridge_rope
+    21300366: misc-3_183
+    21300368: lava_top
+    21300370: misc-3_185
+    21300372: misc-3_186
+    21300374: misc-3_187
+    21300376: bridge_piece
+    21300378: lava_mid
+    21300380: misc-3_190
+    21300382: misc-3_191
+    21300384: misc-3_192
+    21300386: misc-3_193
+    21300388: misc-3_194
+    21300390: misc-3_195
+    21300392: misc-3_196
+    21300394: misc-3_197
+    21300396: misc-3_198
+    21300398: misc-3_199
+    21300400: misc-3_200
+    21300402: misc-3_201
+    21300404: misc-3_202
+    21300406: misc-3_203
+    21300408: misc-3_204
+    21300410: castle_big_left
+    21300412: misc-3_206
+    21300414: misc-3_207
+    21300416: misc-3_208
+    21300418: misc-3_209
+    21300420: misc-3_210
+    21300422: misc-3_211
+    21300424: misc-3_212
+    21300426: misc-3_213
+    21300428: misc-3_214
+    21300430: misc-3_215
+    21300432: misc-3_216
+    21300434: misc-3_217
+    21300436: misc-3_218
+    21300438: misc-3_219
+    21300440: misc-3_220
+    21300442: misc-3_221
+    21300444: misc-3_222
+    21300446: misc-3_223
+    21300448: misc-3_224
+    21300450: misc-3_225
+    21300452: misc-3_226
+    21300454: misc-3_227
+    21300456: misc-3_228
+    21300458: misc-3_229
+    21300460: misc-3_230
+    21300462: misc-3_231
+    21300464: misc-3_232
+    21300466: misc-3_233
+    21300468: misc-3_234
+    21300470: misc-3_235
+    21300472: misc-3_236
+    21300474: misc-3_237
+    21300476: misc-3_238
+    21300478: misc-3_239
+    21300480: misc-3_240
+    21300482: misc-3_241
+    21300484: misc-3_242
+    21300486: misc-3_243
+    21300488: misc-3_244
+    21300490: misc-3_245
+    21300492: misc-3_246
+    21300494: misc-3_247
+    21300496: misc-3_248
+    21300498: misc-3_249
+    21300500: misc-3_250
+    21300502: misc-3_251
+    21300504: misc-3_252
+    21300506: misc-3_253
+    21300508: misc-3_254
+    21300510: misc-3_255
+    21300512: misc-3_256
+    21300514: misc-3_257
+    21300516: misc-3_258
+    21300518: misc-3_259
+    21300520: misc-3_260
+    21300522: misc-3_261
+    21300524: misc-3_262
+    21300526: misc-3_263
+    21300528: misc-3_264
+    21300530: misc-3_265
+    21300532: misc-3_266
+    21300534: misc-3_267
+    21300536: misc-3_268
+    21300538: misc-3_269
+    21300540: misc-3_270
+    21300542: misc-3_271
+    21300544: misc-3_272
+    21300546: misc-3_273
+    21300548: misc-3_274
+    21300550: misc-3_275
+    21300552: misc-3_276
+    21300554: misc-3_277
+    21300556: misc-3_278
+    21300558: misc-3_279
+    21300560: misc-3_280
+    21300562: misc-3_281
+    21300564: misc-3_282
+    21300566: misc-3_283
+    21300568: misc-3_284
+    21300570: misc-3_285
+    21300572: misc-3_286
+    21300574: misc-3_287
+    21300576: misc-3_288
+    21300578: misc-3_289
+    21300580: misc-3_290
+    21300582: misc-3_291
+    21300584: misc-3_292
+    21300586: misc-3_293
+    21300588: misc-3_294
+    21300590: misc-3_295
+    21300592: misc-3_296
+    21300594: misc-3_297
+    21300596: misc-3_298
+    21300598: misc-3_299
+    21300600: misc-3_300
+    21300602: misc-3_301
+    21300604: misc-3_302
+    21300606: misc-3_303
+    21300608: misc-3_304
+    21300610: misc-3_305
+    21300612: misc-3_306
+    21300614: misc-3_307
+    21300616: misc-3_308
+    21300618: misc-3_309
+    21300620: misc-3_310
+    21300622: misc-3_311
+    21300624: misc-3_312
+    21300626: misc-3_313
+    21300628: misc-3_314
+    21300630: misc-3_315
+    21300632: misc-3_316
+    21300634: misc-3_317
+    21300636: misc-3_318
+    21300638: misc-3_319
+    21300640: misc-3_320
+    21300642: misc-3_321
+    21300644: misc-3_322
+    21300646: misc-3_323
+    21300648: misc-3_324
+    21300650: misc-3_325
+    21300652: misc-3_326
+    21300654: misc-3_327
+    21300656: misc-3_328
+    21300658: misc-3_329
+    21300660: misc-3_330
+    21300662: misc-3_331
+    21300664: misc-3_332
+    21300666: misc-3_333
+    21300668: misc-3_334
+    21300670: misc-3_335
+    21300672: misc-3_336
+    21300674: misc-3_337
+    21300676: misc-3_338
+    21300678: misc-3_339
+    21300680: misc-3_340
+    21300682: misc-3_341
+    21300684: misc-3_342
+    21300686: misc-3_343
+    21300688: misc-3_344
+    21300690: misc-3_345
+    21300692: misc-3_346
+    21300694: misc-3_347
+    21300696: misc-3_348
+    21300698: misc-3_349
+    21300700: misc-3_350
+    21300702: misc-3_351
+    21300704: misc-3_352
+    21300706: misc-3_353
+    21300708: misc-3_354
+    21300710: misc-3_355
+    21300712: misc-3_356
+    21300714: misc-3_357
+    21300716: misc-3_358
+    21300718: misc-3_359
+    21300720: misc-3_360
+    21300722: misc-3_361
+    21300724: misc-3_362
+    21300726: misc-3_363
+    21300728: misc-3_364
+    21300730: misc-3_365
+    21300732: misc-3_366
+    21300734: misc-3_367
+    21300736: misc-3_368
+    21300738: misc-3_369
+    21300740: misc-3_370
+    21300742: misc-3_371
+    21300744: misc-3_372
+    21300746: misc-3_373
+    21300748: misc-3_374
+    21300750: misc-3_375
+    21300752: misc-3_376
+    21300754: misc-3_377
+    21300756: misc-3_378
+    21300758: misc-3_379
+    21300760: misc-3_380
+    21300762: bowser_1
+    21300764: bowser_2
+    21300766: bowser_3
+    21300768: bowser_4
+    21300770: misc-3_385
+    21300772: misc-3_386
+    21300774: misc-3_387
+    21300776: misc-3_388
+    21300778: misc-3_389
+    21300780: misc-3_390
+    21300782: misc-3_391
+    21300784: misc-3_392
+    21300786: misc-3_393
+    21300788: misc-3_394
+    21300790: misc-3_395
+    21300792: misc-3_396
+    21300794: misc-3_397
+    21300796: misc-3_398
+    21300798: misc-3_399
+    21300800: misc-3_400
+    21300802: misc-3_401
+    21300804: misc-3_402
+    21300806: misc-3_403
+    21300808: misc-3_404
+    21300810: bowser_fire_1
+    21300812: bowser_fire_2
+    21300814: misc-3_407
+    21300816: misc-3_408
+    21300818: misc-3_409
+    21300820: misc-3_410
+    21300822: misc-3_411
+    21300824: misc-3_412
+    21300826: mario_fire_1
+    21300828: mario_fire_2
+    21300830: mario_fire_3
+    21300832: mario_fire_4
+    21300834: mario_fire_hit_2
+    21300836: mario_fire_hit_3
+    21300838: misc-3_419
+    21300840: misc-3_420
+    21300842: misc-3_421
+    21300844: misc-3_422
+    21300846: misc-3_423
+    21300848: misc-3_424
+    21300850: mario_fire_hit_1
+    21300852: misc-3_426
+    21300854: misc-3_427
+    21300856: misc-3_428
+    21300858: misc-3_429
+    21300860: misc-3_430
+    21300862: misc-3_431
+    21300864: misc-3_432
+    21300866: misc-3_433
+    21300868: misc-3_434
+    21300870: misc-3_435
+    21300872: misc-3_436
+    21300874: misc-3_437
+    21300876: misc-3_438
+    21300878: misc-3_439
+    21300880: misc-3_440
+    21300882: misc-3_441
+    21300884: misc-3_442
+    21300886: misc-3_443
+    21300888: misc-3_444
+    21300890: misc-3_445
+    21300892: misc-3_446
+    21300894: misc-3_447
+    21300896: misc-3_448
+    21300898: misc-3_449
+    21300900: misc-3_450
+    21300902: misc-3_451
+    21300904: misc-3_452
+    21300906: misc-3_453
+    21300908: misc-3_454
+    21300910: misc-3_455
+    21300912: misc-3_456
+    21300914: misc-3_457
+    21300916: misc-3_458
+    21300918: misc-3_459
+    21300920: misc-3_460
+    21300922: misc-3_461
+    21300924: misc-3_462
+    21300926: misc-3_463
+    21300928: misc-3_464
+    21300930: misc-3_465
+    21300932: misc-3_466
+    21300934: misc-3_467
+    21300936: misc-3_468
+    21300938: misc-3_469
+    21300940: misc-3_470
+    21300942: misc-3_471
+    21300944: misc-3_472
+    21300946: misc-3_473
+    21300948: misc-3_474
+    21300950: misc-3_475
+    21300952: misc-3_476
+    21300954: misc-3_477
+    21300956: misc-3_478
+    21300958: misc-3_479
+    21300960: misc-3_480
+    21300962: misc-3_481
+    21300964: misc-3_482
+    21300966: misc-3_483
+    21300968: misc-3_484
+    21300970: misc-3_485
+    21300972: misc-3_486
+    21300974: misc-3_487
+    21300976: misc-3_488
+    21300978: misc-3_489
+    21300980: misc-3_490
+    21300982: misc-3_491
+    21300984: misc-3_492
+    21300986: misc-3_493
+    21300988: misc-3_494
+    21300990: misc-3_495
+    21300992: misc-3_496
+    21300994: misc-3_497
+    21300996: misc-3_498
+    21300998: misc-3_499
+    21301000: misc-3_500
+    21301002: misc-3_501
+    21301004: misc-3_502
+    21301006: misc-3_503
+    21301008: misc-3_504
+    21301010: misc-3_505
+    21301012: misc-3_506
+    21301014: misc-3_507
+    21301016: misc-3_508
+    21301018: misc-3_509
+    21301020: misc-3_510
+    21301022: misc-3_511
+    21301024: misc-3_512
+    21301026: misc-3_513
+    21301028: misc-3_514
+    21301030: misc-3_515
+    21301032: misc-3_516
+    21301034: misc-3_517
+    21301036: misc-3_518
+    21301038: misc-3_519
+    21301040: misc-3_520
+    21301042: misc-3_521
+    21301044: misc-3_522
+    21301046: misc-3_523
+    21301048: misc-3_524
+    21301050: misc-3_525
+    21301052: misc-3_526
+    21301054: misc-3_527
+    21301056: misc-3_528
+    21301058: misc-3_529
+    21301060: misc-3_530
+    21301062: misc-3_531
+    21301064: misc-3_532
+    21301066: misc-3_533
+    21301068: misc-3_534
+    21301070: misc-3_535
+    21301072: misc-3_536
+    21301074: misc-3_537
+    21301076: misc-3_538
+    21301078: misc-3_539
+    21301080: misc-3_540
+    21301082: misc-3_541
+    21301084: misc-3_542
+    21301086: misc-3_543
+    21301088: misc-3_544
+    21301090: misc-3_545
+    21301092: misc-3_546
+    21301094: oneup_mushroom_light
+    21301096: big_mushroom
+    21301098: coin_flashing_1
+    21301100: goal_top_green
+    21301102: castle_small_right
+    21301104: misc-3_4
+    21301106: castle_big_right
+    21301108: lava_mid_long
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: misc-3_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1212
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1212
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1211
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1218
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oneup_mushroom_light
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_mushroom
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oneup_mushroom_dark
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: moving_platform_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1201
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: moving_platform_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1201
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_pole_green
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1054
+        width: 2
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1038
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1038
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1038
+        width: 20
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_brown1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_green1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_grey1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_brown_piece
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_brown_top_up
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_green_top_up
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: moving_platform_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1190
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1190
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_green_piece
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fireflower_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fireflower_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fireflower_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fireflower_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1175
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1175
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1155
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1155
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: block_brown
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: block_brown_green_tinge
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: block_grey
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_grey_piece
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1155
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1155
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1155
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: block_green
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_43
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_flag_green
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_brown_body
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1154
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_green_body
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1154
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: starman_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1133
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: starman_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1133
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: starman_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1133
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: starman_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1133
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1136
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1136
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1122
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1122
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_56
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1122
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_brown2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_green2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brick_grey2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_brown_top_side
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_brown_mid
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1118
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_green_top_side
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_green_mid
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1118
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1098
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1105
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1105
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marble_brown
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1094
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground1_brown
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground1_green
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marble_green
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1094
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ground1_grey
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marble_grey
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1094
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin1_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1075
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin_flashing_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1093
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin_flashing_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1093
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin_flashing_4
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1093
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_brown_top_down
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1081
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_green_top_down
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1081
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_mountain_big
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1057
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: question_block1_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1076
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: question_block1_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1076
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: question_block1_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1076
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin1_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1075
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin1_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1075
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin1_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1080
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin1_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1080
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin1_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1080
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_mountain_small
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1057
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: question_block2_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1057
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: question_block2_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1057
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: question_block2_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1057
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin2_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1059
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin2_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1059
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin2_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1059
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin2_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1069
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin2_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1069
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin2_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1069
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_silver_top_up
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1042
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_blue_top_up
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1043
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin3_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1058
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin3_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1058
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hud_coin3_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1058
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_cloud_blue_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1030
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_cloud_blue_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1030
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_cloud_blue_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1030
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_flag
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1040
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin3_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1043
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin3_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1043
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin3_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1043
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_cloud_red_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1002
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_cloud_red_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1002
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_cloud_red_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1002
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_small_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 954
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_small_grey
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 954
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_silver_top_body
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1022
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_blue_body
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1023
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_bush_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 983
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_bush_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 983
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bg_bush_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 983
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_silver_top_side
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 986
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_silver_mid
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 986
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_blue_top_side
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 987
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_blue_mid
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 987
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_124
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 935
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_125
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 935
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_126
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 935
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_127
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 935
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_top_left
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_top_mid
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_top_right
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_131
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_132
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_133
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_silver_top_down
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 949
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pipe_blue_top_down
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 950
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tree_chunk
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 935
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_137
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 935
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 927
+        width: 113
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_139
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 926
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_140
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 912
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_141
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_142
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 913
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_143
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 914
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_144
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 914
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: color_blue1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 891
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: color_black
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 891
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: color_blue2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 891
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_big_grey
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 745
+        width: 153
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_149
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 893
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_150
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 893
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_151
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 893
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_152
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 899
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_153
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 899
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_154
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 876
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_155
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 867
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: color_blue3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 857
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: color_red
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 857
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_158
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 886
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_159
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 886
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_160
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 886
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_161
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 886
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_162
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 886
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_163
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 886
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_164
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 886
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_165
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 886
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_166
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 859
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_167
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 830
+        width: 126
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_wall
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 744
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toad
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 828
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: princess_peach
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 826
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_171
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 806
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_172
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 818
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_173
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 818
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_174
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 818
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_175
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 806
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 806
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 807
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_179
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 806
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_180
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 788
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_181
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 788
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bridge_rope
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_183
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 785
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lava_top
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 792
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_185
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 792
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_186
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 748
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_187
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 754
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bridge_piece
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lava_mid
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 762
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_190
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 769
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_191
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 729
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_192
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 729
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_193
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 728
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_194
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 729
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_195
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 729
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_196
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 729
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_197
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 729
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 733
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_199
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 733
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_200
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 732
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_201
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 733
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_202
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 733
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_203
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 733
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_204
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 733
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_big_left
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 566
+        width: 40
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_206
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 566
+        width: 112
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_207
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 709
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 709
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_209
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 709
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_210
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 709
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_211
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 709
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_212
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 709
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 713
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_214
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 713
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_215
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 713
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_216
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 713
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_217
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 713
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_218
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 713
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_219
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 671
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_220
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_221
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_222
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 672
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_223
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 673
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_224
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_225
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 674
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_226
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 675
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_227
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 676
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_228
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 676
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_229
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 676
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_230
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 677
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_231
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 676
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_232
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 678
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_233
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 647
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_234
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 647
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_235
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 646
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_236
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 647
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_237
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 647
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_238
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_239
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 647
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_240
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 631
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_241
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 627
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_242
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 627
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_243
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 627
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_244
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 627
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_245
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 627
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_246
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 627
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_247
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 589
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_248
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 590
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_249
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 590
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_250
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 590
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_251
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 591
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_252
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 590
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_253
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 592
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_254
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 557
+        width: 252
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_255
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 549
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_256
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 549
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_257
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 549
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_258
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 548
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_259
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 538
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_260
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 538
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_261
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 537
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_262
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_263
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 538
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_264
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 538
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_265
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 538
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_266
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 538
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_267
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 538
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_268
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 537
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_269
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_270
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 538
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_271
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 538
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_272
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 538
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_273
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 522
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_274
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 549
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_275
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 549
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_276
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_277
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 548
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_278
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 518
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_279
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 518
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_280
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 518
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_281
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 518
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_282
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 518
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_283
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 518
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_284
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 518
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_285
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 518
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_286
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 518
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_287
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 518
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_288
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 518
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_289
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 518
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_290
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 511
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_291
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 511
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_292
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 511
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_293
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 511
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_294
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 480
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_295
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 481
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_296
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 481
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_297
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 481
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_298
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 482
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_299
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 481
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_300
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 483
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_301
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 480
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_302
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 481
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_303
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 481
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_304
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 481
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_305
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 482
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_306
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 481
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_307
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 483
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_308
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 480
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_309
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_310
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 493
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_311
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 493
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_312
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 477
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_313
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 491
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_314
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 474
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_315
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 474
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_316
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_317
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 474
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_318
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 450
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_319
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 450
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_320
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 449
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_321
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 450
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_322
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 450
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_323
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 450
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_324
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 450
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_325
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 452
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_326
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 452
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_327
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 451
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_328
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 452
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_329
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 452
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_330
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_331
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 452
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_332
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 435
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_333
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 443
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_334
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 455
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_335
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 456
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_336
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 430
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_337
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 430
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_338
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 430
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_339
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 430
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_340
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 430
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_341
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 430
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_342
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 432
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_343
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_344
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 432
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_345
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 432
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_346
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 432
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_347
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 432
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_348
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 438
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_349
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 421
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_350
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 392
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_351
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 393
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_352
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 393
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_353
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 393
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_354
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 394
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_355
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 393
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_356
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 395
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_357
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 394
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_358
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 395
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_359
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 395
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_360
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 395
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_361
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 396
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_362
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 395
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_363
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 397
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_364
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 412
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_365
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 413
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_366
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 412
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_367
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 413
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_368
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 413
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_369
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 413
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_370
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 391
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_371
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 361
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_372
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 363
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_373
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 381
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_374
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 382
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_375
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 381
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_376
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 382
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_377
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 383
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_378
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 383
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_379
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 363
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_380
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 363
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bowser_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bowser_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bowser_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bowser_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 324
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_385
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_386
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_387
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_388
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 342
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_389
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_390
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_391
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 353
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_392
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 354
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_393
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 353
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_394
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 354
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_395
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 355
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_396
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 355
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_397
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 338
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_398
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 338
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_399
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 343
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_400
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 342
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_401
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 342
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_402
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 314
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_403
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 312
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_404
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 313
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bowser_fire_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 306
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bowser_fire_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 306
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_407
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_408
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_409
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_410
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_411
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_412
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_fire_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 299
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_fire_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 299
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_fire_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 299
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_fire_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 299
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_fire_hit_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 295
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_fire_hit_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_419
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 283
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_420
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 283
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_421
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 283
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_422
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 302
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_423
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 302
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_424
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 277
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario_fire_hit_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 298
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_426
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 283
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_427
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 283
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_428
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_429
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 259
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_430
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_431
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 259
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_432
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 259
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_433
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 178
+        width: 265
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_434
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 255
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_435
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 255
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_436
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 255
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_437
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 272
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_438
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 272
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_439
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_440
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_441
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_442
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_443
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_444
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_445
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 240
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_446
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_447
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 219
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_448
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 219
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_449
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 219
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_450
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_451
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 68
+        width: 230
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_452
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_453
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_454
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 52
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_455
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_456
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_457
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 52
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_458
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 52
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_459
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_460
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 52
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_461
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 52
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_462
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 52
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_463
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_464
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 49
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_465
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 49
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_466
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 52
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_467
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_468
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 52
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_469
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 52
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_470
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_471
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 52
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_472
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 52
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_473
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 52
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_474
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 52
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_475
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 52
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_476
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_477
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 37
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_478
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_479
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_480
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 34
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_481
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 37
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_482
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_483
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_484
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 37
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_485
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_486
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_487
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_488
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_489
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_490
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_491
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_492
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 37
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_493
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_494
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_495
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_496
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 37
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_497
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_498
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 37
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_499
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_500
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 37
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_501
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_502
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 37
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_503
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_504
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_505
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 22
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_506
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_507
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_508
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_509
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_510
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 22
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_511
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 22
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_512
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_513
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_514
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 19
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_515
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_516
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_517
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_518
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 22
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_519
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 22
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_520
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 22
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_521
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_522
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_523
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_524
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_525
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 22
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_526
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_527
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_528
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_529
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_530
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 22
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_531
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 7
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_532
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_533
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_534
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_535
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_536
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_537
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_538
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_539
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_540
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_541
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_542
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_543
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_544
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_545
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_546
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: coin_flashing_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1093
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goal_top_green
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_small_right
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 954
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: misc-3_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1110
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: castle_big_right
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 566
+        width: 109
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
