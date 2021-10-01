@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4d953ee8a2e3043538664e5eb88ff553
+guid: 2d2526a4f96d8466da4915844e970f9c
 timeCreated: 1498233143
 licenseType: Free
 TextureImporter:
@@ -5280,7 +5280,7 @@ TextureImporter:
         - {x: 16, y: 16}
       tessellationDetail: 0
     outline: []
-  spritePackingTag: 
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
