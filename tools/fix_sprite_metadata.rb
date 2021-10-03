@@ -1,4 +1,5 @@
-filename = './Assets/Sprites/4096x3200.png.meta'
+
+filename = $0 # ex) './Assets/Sprites/4096x3200.png.meta'
 buffer = []
 File.open(filename, 'r') do |f|
   f.each_line do|l|
